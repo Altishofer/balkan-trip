@@ -100,14 +100,14 @@
 ## Budget Estimate (Per Person)
 
 | Item              | Estimate (7–10 Days) |
-|-------------------|----------------------|
-| Car rental        | €120–180             |
-| Fuel              | €60–90               |
-| Motels            | €200–300             |
-| Food & drinks     | €120–180             |
-| Activities        | €50–150              |
-| Flights           | £435.70              |
-| **Total**         | ~€950–1100           |
+|-------------------|----------------|
+| Car rental        | €       |
+| Fuel              | €              |
+| Motels            | €       |
+| Food & drinks     | €       |
+| Activities        | €        |
+| Flights           | £435.70        |
+| **Total**         | ~€950–1100     |
 
 ---
 
