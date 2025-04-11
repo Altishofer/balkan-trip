@@ -1,3 +1,9 @@
+---
+layout: default
+title: Balkan Brothers Roadtrip
+---
+
+
 # Balkan Brothers Roadtrip: Full Itinerary + Adventure Guide (7 Days)
 
 **Style:** Epic Balkan loop with 1.5–2h drives/day  
