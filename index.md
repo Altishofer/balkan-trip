@@ -1,84 +1,106 @@
----
-layout: default
-title: Balkan Brothers Roadtrip
----
+# Balkan Brothers Roadtrip: Mediterranean Round Trip (7 Days)
 
-
-# Balkan Brothers Roadtrip: Full Itinerary + Adventure Guide (7 Days)
-
-**Style:** Epic Balkan loop with 1.5–2h drives/day  
+**Style:** Coastal loop with 1.5–2h drives/day  
 **Transport:** Rental car (cross-border permitted)  
-**Start:** Dubrovnik, Croatia (airline access like easyJet)  
-**End:** Skopje, North Macedonia  
-**Accommodation:** Motels
-**Vibe:** Nature, adventure, relaxing, local cuisine
+**Start/End:** Pristina, Kosovo (airline access from Basel)  
+**Accommodation:** Motels  
+**Vibe:** Coastal scenery, adventure, local cuisine
+
+---
+
+## ✈️ Flight Details
+
+**Your Trip: Basel ↔ Pristina**
+
+| Leg                   | Departure               | Arrival                 |
+|-----------------------|-------------------------|-------------------------|
+| Basel → Pristina      | Fri 25 Jul 2025, 18:00  | Fri 25 Jul 2025, 20:10  |
+| Pristina → Basel      | Tue 5 Aug 2025, 20:35   | Tue 5 Aug 2025, 22:45   |
+
+**Passengers:** 2 Adults  
+**Price per person:** £435.70  
+**Total:** £871.40
 
 ---
 
 ## Route Overview
 
-1. Dubrovnik (Croatia)  
-2. Mostar (Bosnia and Herzegovina)  
-3. Kotor (Montenegro)  
-4. Tirana (Albania)  
-5. Ohrid (North Macedonia)  
-6. Skopje (North Macedonia)  
-7. Pristina (Kosovo – day trip)  
-8. Back to Skopje for departure
+1. [Pristina, Kosovo](https://www.google.com/maps/place/Pristina,+Kosovo)  
+2. [Skopje, North Macedonia](https://www.google.com/maps/place/Skopje,+North+Macedonia)  
+3. [Ohrid, North Macedonia](https://www.google.com/maps/place/Ohrid,+North+Macedonia)  
+4. [Saranda, Albania](https://www.google.com/maps/place/Saranda,+Albania)  
+5. [Tirana, Albania](https://www.google.com/maps/place/Tirana,+Albania)  
+6. [Kotor, Montenegro](https://www.google.com/maps/place/Kotor,+Montenegro)  
+7. [Mostar, Bosnia and Herzegovina](https://www.google.com/maps/place/Mostar,+Bosnia+and+Herzegovina)  
+8. [Split, Croatia](https://www.google.com/maps/place/Split,+Croatia)  
+9. [Back to Pristina, Kosovo](https://www.google.com/maps/place/Pristina,+Kosovo)
 
 ---
 
 ## Day-by-Day Itinerary
 
-### Day 1 – Arrive in Dubrovnik
-- Arrive via easyJet or similar
-- Rent car (with multi-border permission)
-- Explore Old Town, city walls, Fort Lovrijenac
-- Try seafood or Balkan grill
+### Day 1 – Arrive in Pristina
+![Pristina](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Pristina_Skanderbeg_Square.jpg/800px-Pristina_Skanderbeg_Square.jpg)
+- Arrive from Basel at 20:10
+- Pick up rental car (cross-border permitted)
+- Walk to the Newborn monument or grab dinner
 
-### Day 2 – Dubrovnik → Mostar (~2h)
-- Visit Stari Most bridge
-- Explore old Ottoman town and bazaar
-- Try ćevapi, burek, and Bosnian coffee
+### Day 2 – Pristina → Skopje (~2h)
+![Skopje](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Skopje_Panorama.jpg/800px-Skopje_Panorama.jpg)
+- Explore Skopje's statue-filled city center
+- Ride the cable car to Millennium Cross
+- Optional: Karting or shooting range
 
-### Day 3 – Mostar → Kotor (~2h)
-- Coastal drive via Trebinje or Herceg Novi
-- Walk the fortress walls of Kotor
-- Optional: Rent a boat on the Bay of Kotor
+### Day 3 – Skopje → Ohrid (~2h)
+![Ohrid](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ohrid_from_above.jpg/800px-Ohrid_from_above.jpg)
+- Visit the Old Town and Church of St. John at Kaneo
+- Optional: Lake boat ride or paragliding
 
-### Day 4 – Kotor → Tirana (~2h)
-- Drive via Budva, Bar, and Ulcinj
-- Visit Skanderbeg Square, Blloku district
-- Try shooting range or karting
+### Day 4 – Ohrid → Saranda (~2h)
+![Saranda](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Saranda_Albania.jpg/800px-Saranda_Albania.jpg)
+- Drive via Gjirokastër or the mountain route
+- Relax at Ksamil beach or explore Butrint ruins
 
-### Day 5 – Tirana → Ohrid (~2h)
-- Boat on Lake Ohrid, explore Old Town
-- Visit Church of St. John at Kaneo
+### Day 5 – Saranda → Tirana (~2h)
+![Tirana](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Tirana_Skyline.jpg/800px-Tirana_Skyline.jpg)
+- Visit Skanderbeg Square and the Bunk'Art museum
+- Try quad biking or shooting range options
 
-### Day 6 – Ohrid → Skopje (~2h)
-- Check giant statues, Old Bazaar, Millennium Cross
-- Try Matka Canyon: kayak + cave combo
+### Day 6 – Tirana → Kotor (~2h)
+![Kotor](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kotor_Montenegro.jpg/800px-Kotor_Montenegro.jpg)
+- Stop in Budva along the way
+- Walk Kotor’s fortress walls or take a boat tour
 
-### Day 7 – Skopje → Pristina (Kosovo) → back to Skopje (~1.5h each way)
-- Day trip: Visit Newborn monument, bazaar, mosque
-- Walk Germia Park or visit Ethnographic Museum
+### Day 7 – Kotor → Mostar (~2h)
+![Mostar](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mostar_Old_Bridge.jpg/800px-Mostar_Old_Bridge.jpg)
+- Drive inland to Bosnia and Herzegovina
+- Visit Stari Most bridge and Old Bazaar
+
+### Day 8 – Mostar → Split (~2h)
+![Split](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Split_Croatia.jpg/800px-Split_Croatia.jpg)
+- Explore Diocletian’s Palace and the coast
+- Optional: Jet ski rental or chill on Bacvice Beach
+
+### Day 9 – Split → Pristina (~2h)
+- Return to Pristina in time for flight
+- Drop off car
 
 ---
 
-## Creative Activities Breakdown
+## Adventure Activities Breakdown
 
 ### Adrenaline / Action
-- Shooting ranges (Sarajevo, Tirana, Skopje)
-- Quad biking in Durmitor, Shkodër, Ohrid
+- Shooting ranges (Tirana, Skopje)
+- Quad biking in Shkodër, Ohrid
 - Dirt bike tours in Montenegro, Albania
 - Zipline: Tara Bridge, Rugova Canyon
 - Paragliding in Budva, Ohrid
 
 ### Water & Boat Activities
-- Speedboat rental: Bay of Kotor, Lake Skadar, Ohrid
-- Kayak/canoe: Matka Canyon, Lake Ohrid, Shkodër
+- Speedboat rental: Bay of Kotor, Lake Ohrid
+- Kayak/canoe: Matka Canyon, Lake Ohrid
 - Jet ski: Budva, Vlorë, Saranda
-- Rafting: Tara River, Neretva (Konjic), Vjosa
+- Rafting: Tara River, Vjosa
 
 ### Nature & Exploration
 - Wild BBQ in mountains: Prokletije, Durmitor
@@ -86,23 +108,28 @@ title: Balkan Brothers Roadtrip
 
 ### Machines & Rides
 - Squat/fat bikes in Budva, Ohrid, Shkodër
-- Karting in Skopje, Belgrade, Tirana
-- Jeep safaris or 4x4 trails in Durmitor, Albanian Alps
+- Karting in Skopje, Tirana
+- Jeep safaris in Durmitor, Albanian Alps
 
 ---
 
 ## Motel Budget Estimate
 
-| Item              | Per Person (7 Days) |
-|-------------------|---------------------|
-| Car rental        | €100–150            |
-| Fuel              | €50–70              |
-| Motels            | €150–210            |
-| Food & drinks     | €100–150            |
-| Activities (avg)  | €50–100             |
-| Total             | €450–650            |
+| Item                      | Per Person (7–10 Days) |
+|---------------------------|------------------------|
+| Car rental                | €120–180               |
+| Fuel                      | €60–90                 |
+| Motels                    | €200–300               |
+| Food & drinks             | €120–180               |
+| Activities (avg)          | €50–150                |
+| Flights                   | £435.70 (per person)   |
+| **Total (excl. flights)** | €550–750               |
+| **Total incl. flights**   | ~€1,000                |
 
 ---
 
 ## Google Maps Route (Copy & Paste)
-https://www.google.com/maps/dir/Dubrovnik,+Croatia/Mostar,+Bosnia+and+Herzegovina/Kotor,+Montenegro/Tirana,+Albania/Ohrid,+North+Macedonia/Skopje,+North+Macedonia/Pristina,+Kosovo/Skopje,+North+Macedonia
+
+[View Route on Google Maps](https://www.google.com/maps/dir/Pristina,+Kosovo/Skopje,+North+Macedonia/Ohrid,+North+Macedonia
+::contentReference[oaicite:0]{index=0}
+ 
