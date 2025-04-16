@@ -90,7 +90,7 @@
 
 <div style="display:flex;gap:10px;justify-content:center;">
   <img src="assets/bovec_quad.jpg" alt="Quad Bovec" width="48%" />
-  <img src="assets/bovec_raft.jpg" alt="Rafting Bovec" width="48%" />
+  <img src="assets/bovec.jpg" alt="Rafting Bovec" width="48%" />
 </div>
 
 ---
@@ -141,8 +141,6 @@
 ---
 
 ### **Day 8 – 2 Aug (Sat) – Back to Zagreb (2h 20m)**
-
-
 - Scenic inland drive  
 - Return car  
 - Overnight Zagreb (if needed)  
@@ -152,7 +150,8 @@
 ---
 
 ### **Day 9 – 3 Aug (Sun) – Fly Home**
-- Morning flight to Basel  
+- Morning in Zagreb or Krk
+- Morning flight to Basel
 
 ---
 
