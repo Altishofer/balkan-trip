@@ -78,10 +78,10 @@
 - **Price:** 90.- CHF  
 - **Passengers:** 1 Adult
 
-| Date       | Time        | Airline                 | Route   | Stops    | CO₂   |
-|------------|-------------|--------------------------|---------|----------|--------|
-| 26 Jul Sat | 13:50–15:20 | Ryanair (Lauda Europe)  | BSL–ZAG | Non-stop | 73 kg |
-| 3 Aug Sun  | 10:15–11:50 | Ryanair (Lauda Europe)  | ZAG–BSL | Non-stop | 73 kg |
+| Date       | Time        | Airline                | Route   | Stops    |
+|------------|-------------|------------------------|---------|----------|
+| 26 Jul Sat | 13:50–15:20 | Ryanair (Lauda Europe) | BSL–ZAG | Non-stop |
+| 3 Aug Sun  | 10:15–11:50 | Ryanair (Lauda Europe) | ZAG–BSL | Non-stop |
 
 
 
@@ -93,7 +93,6 @@
 |--------------|---------------------------------|
 | Vehicle      | VW Taigo or similar SUV         |
 | Gear         | Automatic                       |
-| Bags         | 1 large, 1 small                |
 | Mileage      | Unlimited                       |
 | Pickup       | 26 Jul, 10:00                   |
 | Return       | 3 Aug, 10:00                    |
