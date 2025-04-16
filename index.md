@@ -1,5 +1,9 @@
-# Balkan Brothers Roadtrip: Mediterranean Round Trip (8 Days)
+## Balkan Brothers Roadtrip
+### Mediterranean Round Trip (8 Days)
 
+___
+### Overview
+**Dates:** 26 Jul - 3 Aug 2024
 **Style:** Coastal loop  
 **Transport:** Rental car  
 **Start/End:** Zagreb, Croatia  
@@ -161,7 +165,7 @@
 
 ---
 
-## 💸 Budget Estimate (per person)
+## Budget Estimate (per person)
 
 | Item           | Amount pro P. |
 |----------------|---------------|
