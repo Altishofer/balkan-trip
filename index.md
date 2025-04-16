@@ -1,7 +1,7 @@
 
 <style>
   h2, h3 {
-    text-align: start;
+    text-align: center;
     margin-top: 2em;
     border-bottom: 2px solid #ccc;
     padding-bottom: 0.3em;
@@ -59,7 +59,7 @@
 ## Balkan Brothers Roadtrip
 
 
-<img src="assets/kroki.jpeg" alt="Noice" width="40%" class="centered-img" />
+<img src="assets/kroki.jpeg" alt="Noice" width="70%" class="centered-img" />
 
 
 ### Overview
@@ -103,7 +103,7 @@
 | Rating       | 8.6 (400+ reviews)              |
 | Price        | 422.06 CHF                      |
 
-<img src="assets/car.jpg" alt="Car Rental" width="40%" class="centered-img" />
+<img src="assets/car.jpg" alt="Car Rental" width="50%" class="centered-img" />
 
 
 
@@ -115,7 +115,7 @@
 - First local beer  
 - Overnight in [Zagreb](https://www.google.com/maps/place/Zagreb,+Croatia/)
 
-<img src="assets/zagreb.jpg" alt="Zagreb" width="40%" class="centered-img" />
+<img src="assets/zagreb.jpg" alt="Zagreb" width="70%" class="centered-img" />
 
 
 
@@ -125,7 +125,7 @@
 - [Shooting Range Gaj](https://shootingrange-gaj.eu/)  
 - Overnight in [Ljubljana](https://www.google.com/maps/place/Ljubljana,+Slovenia/)
 
-<img src="assets/ljubljana.jpg" alt="Ljubljana" width="40%" class="centered-img" />
+<img src="assets/ljubljana.jpg" alt="Ljubljana" width="70%" class="centered-img" />
 
 
 
@@ -136,7 +136,7 @@
 - Wild BBQ at the lake  
 - Overnight in [Bled](https://www.google.com/maps/place/Bled,+Slovenia/)
 
-<img src="assets/bled.jpg" alt="Lake Bled" width="40%" class="centered-img" />
+<img src="assets/bled.jpg" alt="Lake Bled" width="70%" class="centered-img" />
 
 
 
@@ -148,8 +148,8 @@
 - Overnight in [Bovec](https://www.google.com/maps/place/Bovec,+Slovenia/)
 
 <div class="gallery">
-  <img src="assets/bovec_quad.jpg" alt="Quad Bovec" width="20%" />
-  <img src="assets/bovec.jpg" alt="Rafting Bovec" width="20%" />
+  <img src="assets/bovec_quad.jpg" alt="Quad Bovec" />
+  <img src="assets/bovec.jpg" alt="Rafting Bovec" />
 </div>
 
 
@@ -191,7 +191,7 @@
   - Last beach day  
 - Overnight on [Krk](https://www.google.com/maps/place/Krk,+Croatia/)
 
-<img src="assets/krk.jpg" alt="Krk Island" width="40%" class="centered-img" />
+<img src="assets/krk.jpg" alt="Krk Island" width="70%" class="centered-img" />
 
 
 
@@ -201,7 +201,7 @@
 - Return car  
 - Overnight [Zagreb](https://www.google.com/maps/place/Zagreb,+Croatia/) (if needed)
 
-<img src="assets/vrbovsko.jpg" alt="Drive to Zagreb" width="40%" class="centered-img" />
+<img src="assets/vrbovsko.jpg" alt="Drive to Zagreb" width="70%" class="centered-img" />
 
 
 
