@@ -74,6 +74,12 @@
 **Vibe:** Scenery, adventure, local food
 
 
+### Google Maps Route
+
+[Google Maps Route](https://www.google.com/maps/dir/Zagreb,+Croatia/Ljubljana,+Slovenia/Bled,+Slovenia/Bovec,+Slovenia/Postojna,+Slovenia/Trieste,+Italy/Rovinj,+Croatia/Pula,+Croatia/Rijeka,+Croatia/Krk,+Croatia/Zagreb,+Croatia/)
+<img src="assets/map.jpg" alt="Noice" width="70%" class="centered-img" />
+
+
 
 ### Flight Details – Basel ↔ [Zagreb](https://www.google.com/maps/place/Zagreb,+Croatia/)
 
@@ -210,12 +216,6 @@
 
 - Morning in [Zagreb](https://www.google.com/maps/place/Zagreb,+Croatia/) or [Krk](https://www.google.com/maps/place/Krk,+Croatia/)  
 - Morning flight to Basel
-
-
-
-### Google Maps Route
-
-[Full Map](https://www.google.com/maps/dir/Zagreb,+Croatia/Ljubljana,+Slovenia/Bled,+Slovenia/Bovec,+Slovenia/Postojna,+Slovenia/Trieste,+Italy/Rovinj,+Croatia/Pula,+Croatia/Rijeka,+Croatia/Krk,+Croatia/Zagreb,+Croatia/)
 
 
 
