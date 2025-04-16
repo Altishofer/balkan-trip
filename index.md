@@ -1,4 +1,4 @@
-# Balkan Brothers Roadtrip: Mediterranean Round Trip (7 Days)
+# Balkan Brothers Roadtrip: Mediterranean Round Trip (8 Days)
 
 **Style:** Coastal loop with 1.5–2h drives/day  
 **Transport:** Rental car (cross-border permitted)  
@@ -49,21 +49,21 @@
 
 ## 🗺️ Route Overview
 
-### **Arrival – Zagreb Airport**
+### **Day 1 – Saturday, 26 July – Arrival in Zagreb**
 - ✅ Pick up rental car  
 - 🍺 First pivo  
 - 🛏️ Overnight hotel  
 
 ---
 
-### **Day 2 – Ljubljana (2h drive)**
+### **Day 2 – Sunday, 27 July – Ljubljana (2h drive)**
 - 🏙️ Explore the capital city  
 - 🎯 Shooting range: [Shooting Range Gaj](https://shootingrange-gaj.eu/)  
 - 🛏️ Overnight hotel  
 
 ---
 
-### **Day 3 – Lake Bled (45 min drive)**
+### **Day 3 – Monday, 28 July – Lake Bled (45 min drive)**
 - 🌊 Visit iconic Lake Bled  
 - 🚵 Mountain biking: [Scott eBike Rental](https://www.polkadot.si/products/scott-contessa-aspect-eride-920/)  
 - 🔥 Wild BBQ at the lake  
@@ -71,7 +71,7 @@
 
 ---
 
-### **Day 4 – Bovec (1.5–2.5h drive)**
+### **Day 4 – Tuesday, 29 July – Bovec (1.5–2.5h drive)**
 - 🛻 Quad biking: [Quad Adventure Bovec](https://www.quad-adventure-bovec.com/)  
 - 🚣 River rafting: [Eco Nature's Ways](https://www.econaturesways.com/)  
 - 🧗 Canyoning: [Canyoning Bovec](https://www.bovec.si/en/activities/canyoning/)  
@@ -79,42 +79,38 @@
 
 ---
 
-### **Day 5 – Postojna (1h 50m drive)**
-- 🕳️ Explore the Postojna Caves: [postojnska-jama.eu](https://www.postojnska-jama.eu/en/)  
-- 🛏️ Overnight nearby  
+### **Day 5 – Wednesday, 30 July – Postojna & Trieste**
+- 🕳️ Visit the stunning [Postojna Cave](https://www.postojnska-jama.eu/en/) (1h 50m drive from Bovec)  
+- 🇮🇹 Explore **Trieste** (45 min drive from Postojna)  
+  - Historic cafés, coastal promenade, Italian flair  
+- 🛏️ Overnight near Trieste/Postojna  
 
 ---
-### **Day 6 – Istrian Coastline & Culture**
 
-- 🇮🇹 **Trieste** (45 min drive from Postojna)  
-  Explore the Italian port city, grab a coffee at a historic café, and walk along the seaside promenade.
-
+### **Day 6 – Thursday, 31 July – Istrian Coastline & Culture**
 - 🇭🇷 **Rovinj** (1h 40m drive from Trieste)  
-  Wander the narrow cobblestone streets, climb to the church viewpoint, and enjoy fresh seafood at the harbor.
-
+  - Charming old town, scenic harbor, seafood dining  
 - 🇭🇷 **Pula** (40 min drive from Rovinj)  
-  Visit the ancient Roman amphitheater, explore coastal fortresses, or chill on the beach.
-
-- 🛏️ **Overnight in Pula**  
-  Stay near the beach or city center.
+  - Roman amphitheater, fortress ruins, beaches  
+- 🛏️ Overnight in Pula  
 
 ---
 
-### **Day 7 – Kvarner Bay & Island Life**
-
+### **Day 7 – Friday, 1 August – Kvarner Bay & Island Life**
 - 🇭🇷 **Rijeka** (1h 30m drive from Pula)  
-  Quick stop in this lively port city for a bite or a stroll through Korzo pedestrian zone.
-
+  - Quick city stroll, coffee on Korzo  
 - 🏝️ **Island of Krk** (1h drive from Rijeka)  
-  Enjoy the coastal scenery, relax on the beach, or rent a small boat to explore hidden coves.
-
-- 🛏️ **Overnight on Krk Island**  
-  Perfect for a quiet last night before returning to Zagreb.
+  - Small boat rental, beach time, relaxed island vibe  
+- 🛏️ Overnight on Krk Island  
 
 ---
 
-### **Day 8 – Return to Zagreb (2h 20m drive)**
-
+### **Day 8 – Saturday, 2 August – Return to Zagreb (2h 20m drive)**
 - 🛣️ Drive through the scenic interior of Croatia  
 - 🧳 Return the rental car  
-- ✈️ Departure or overnight in Zagreb
+- 🛏️ Overnight in Zagreb (optional, depending on flight timing)
+
+---
+
+### **Day 9 – Sunday, 3 August – Departure**
+- ✈️ Morning flight back to Basel
