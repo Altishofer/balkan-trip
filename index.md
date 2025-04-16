@@ -8,23 +8,22 @@
 
 ---
 
-## ✈️ Flight Details – Basel ↔ Zagreb
+## Flight Details – Basel ↔ Zagreb
 
-| Date       | Time          | Airline                            | Route   | Stops    | CO₂   |
-|------------|---------------|------------------------------------|---------|----------|--------|
-| 26 Jul Sat | 13:50–15:20   | Ryanair (Lauda Europe)            | BSL–ZAG | Non-stop | 73 kg |
-| 3 Aug Sun  | 10:15–11:50   | Ryanair (Lauda Europe)            | ZAG–BSL | Non-stop | 73 kg |
+| Date       | Time        | Airline                  | Route   | Stops    | CO₂   |
+|------------|-------------|--------------------------|---------|----------|--------|
+| 26 Jul Sat | 13:50–15:20 | Ryanair (Lauda Europe)  | BSL–ZAG | Non-stop | 73 kg |
+| 3 Aug Sun  | 10:15–11:50 | Ryanair (Lauda Europe)  | ZAG–BSL | Non-stop | 73 kg |
 
-- Price: 90.- CHF  
-- Passengers: 1 Adult  
+- Price: 90.- CHF
+- Passengers: 1 Adult
 
 ---
 
-## 🚗 Car Rental – Zagreb Airport
+## Car Rental – Zagreb Airport
 
-https:/cars.booking.com/package/deal/eyJkcml2ZXJzQWdlIjozMCwiZHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wOC0wM1QxMDowMDowMCIsImRyb3BPZmZMb2NhdGlvbiI6IjQ1LjgxMzE1MjMxMzIzMjQyLDE1Ljk3NzMwODI3MzMxNTQzIiwiZHJvcE9mZkxvY2F0aW9uVHlwZSI6IkxBVExPTkciLCJwaWNrVXBEYXRlVGltZSI6IjIwMjUtMDctMjZUMTA6MDA6MDAiLCJwaWNrVXBMb2NhdGlvbiI6IjQ1LjgxMzE1MjMxMzIzMjQyLDE1Ljk3NzMwODI3MzMxNTQzIiwicGlja1VwTG9jYXRpb25UeXBlIjoiTEFUTE9ORyIsInJlbnRhbER1cmF0aW9uSW5EYXlzIjo4LCJzZWFyY2hNZXRhZGF0YSI6IntcInBpY2tVcExvY2F0aW9uTmFtZVwiOlwiWmFncmViXCIsXCJkcm9wT2ZmTG9jYXRpb25OYW1lXCI6XCJaYWdyZWJcIn0ifQ==/771939976
+[Booking Link](https://cars.booking.com/package/deal/eyJkcml2ZXJzQWdlIjozMC...)
 
-<img src="assets/car.jpg" alt="Zagreb" width="100%" />
 
 | Item         | Info                               |
 |--------------|------------------------------------|
@@ -36,96 +35,130 @@ https:/cars.booking.com/package/deal/eyJkcml2ZXJzQWdlIjozMCwiZHJvcE9mZkRhdGVUaW1
 | Return       | 3 Aug, 10:00                       |
 | Provider     | Goldcar                            |
 | Extras       | Add. driver: 58.88 CHF             |
-|              | Child seat: 92.61 CHF              |
 | Insurance    | Collision & theft (1736 CHF SB)    |
 | Rating       | 8.6 (400+ reviews)                 |
 | Price        | 422.06 CHF                         |
 
+
+<img src="assets/car.jpg" alt="Car Rental" width="50%" style="display:block;margin:auto;" />
+
+
 ---
 
-## 🗺️ Route Plan
+## Route Plan
 
 ### **Day 1 – 26 Jul (Sat) – Zagreb**
-<img src="assets/day1_zagreb.jpg" alt="Zagreb" width="100%" />
-- ✅ Car pickup  
-- 🍺 First local beer  
-- 🛏️ Overnight in Zagreb  
+
+- Car pickup  
+- First local beer  
+- Overnight in Zagreb  
+
+<img src="assets/zagreb.jpg" alt="Zagreb" width="70%" style="display:block;margin:auto;" />
 
 ---
 
 ### **Day 2 – 27 Jul (Sun) – Ljubljana (2h)**
-<img src="assets/day2_ljubljana.jpg" alt="Ljubljana" width="100%" />
-- 🏙️ Walk the old town  
-- 🎯 [Shooting Range Gaj](https:/shootingrange-gaj.eu/)  
-- 🛏️ Overnight in Ljubljana  
+
+
+- Walk the old town  
+- [Shooting Range Gaj](https://shootingrange-gaj.eu/)  
+- Overnight in Ljubljana  
+
+<img src="assets/ljubljana.jpg" alt="Ljubljana" width="70%" style="display:block;margin:auto;" />
 
 ---
 
 ### **Day 3 – 28 Jul (Mon) – Bled (45m)**
-<img src="assets/day3_bled.jpg" alt="Lake Bled" width="100%" />
-- 🌊 Lake Bled walk  
-- 🚵 [eMTB Rental](https:/www.polkadot.si/products/scott-contessa-aspect-eride-920/)  
-- 🔥 Wild BBQ at the lake  
-- 🛏️ Overnight in Bled  
+
+
+- Lake Bled walk  
+- [eMTB Rental](https://www.polkadot.si/products/scott-contessa-aspect-eride-920/)  
+- Wild BBQ at the lake  
+- Overnight in Bled  
+
+<img src="assets/bled.jpg" alt="Lake Bled" width="70%" style="display:block;margin:auto;" />
 
 ---
 
 ### **Day 4 – 29 Jul (Tue) – Bovec (2h)**
-<img src="assets/day4_bovec.jpg" alt="Bovec Adventure" width="100%" />
-- 🛻 [Quad Biking](https:/www.quad-adventure-bovec.com/)  
-- 🚣 [Rafting](https:/www.econaturesways.com/)  
-- 🧗 [Canyoning](https:/www.bovec.si/en/activities/canyoning/)  
-- 🛏️ Overnight in Bovec  
+
+
+- [Quad Biking](https://www.quad-adventure-bovec.com/)  
+- [Rafting](https://www.econaturesways.com/)  
+- [Canyoning](https://www.bovec.si/en/activities/canyoning/)  
+- Overnight in Bovec  
+
+<div style="display:flex;gap:10px;justify-content:center;">
+  <img src="assets/bovec_quad.jpg" alt="Quad Bovec" width="48%" />
+  <img src="assets/bovec_raft.jpg" alt="Rafting Bovec" width="48%" />
+</div>
 
 ---
 
 ### **Day 5 – 30 Jul (Wed) – Postojna (2h) + Trieste (45m)**
-<img src="assets/day5_postojna_trieste.jpg" alt="Postojna Cave & Trieste" width="100%" />
-- 🕳️ [Postojna Cave](https:/www.postojnska-jama.eu/en/)  
-- 🇮🇹 Trieste café & coast  
-- 🛏️ Overnight nearby  
+
+
+- [Postojna Cave](https://www.postojnska-jama.eu/en/)  
+- Trieste café & coast  
+- Overnight nearby  
+
+<div style="display:flex;gap:10px;justify-content:center;">
+  <img src="assets/post.jpg" alt="Postojna Cave" width="48%" />
+  <img src="assets/trieste.jpg" alt="Trieste Coast" width="48%" />
+</div>
 
 ---
 
 ### **Day 6 – 31 Jul (Thu) – Istrian Coast**
-<img src="assets/day6_rovinj_pula.jpg" alt="Rovinj and Pula" width="100%" />
-- 🇭🇷 Rovinj (1h 40m)  
-  - 🏛️ Church view, old town walk  
-- 🇭🇷 Pula (40m)  
-  - 🏟️ Amphitheater  
-  - 🌅 Sunset beach chill  
-- 🛏️ Overnight in Pula  
+
+
+- Rovinj  
+  - Church view, old town walk  
+- Pula  
+  - Amphitheater  
+  - Sunset beach chill  
+- Overnight in Pula  
+
+<div style="display:flex;gap:10px;justify-content:center;">
+  <img src="assets/rovinj.jpg" alt="Rovinj" width="48%" />
+  <img src="assets/pula.jpg" alt="Pula" width="48%" />
+</div>
 
 ---
 
 ### **Day 7 – 1 Aug (Fri) – Kvarner Bay**
-<img src="assets/day7_krk.jpg" alt="Krk Island" width="100%" />
-- 🇭🇷 Rijeka (1h 30m)  
-  - ☕ Quick stop  
-- 🏝️ Island of Krk (1h)  
-  - 🚤 Optional boat rental  
-  - 🏖️ Last beach day  
-- 🛏️ Overnight on Krk  
+
+
+- Rijeka (quick stop)  
+- Island of Krk  
+  - Optional boat rental  
+  - Last beach day  
+- Overnight on Krk  
+
+<img src="assets/krk.jpg" alt="Krk Island" width="70%" style="display:block;margin:auto;" />
+
 
 ---
 
 ### **Day 8 – 2 Aug (Sat) – Back to Zagreb (2h 20m)**
-<img src="assets/day8_drive_back.jpg" alt="Back to Zagreb" width="100%" />
-- 🛣️ Scenic inland drive  
-- 🧳 Return car  
-- 🛏️ Overnight Zagreb (if needed)  
+
+
+- Scenic inland drive  
+- Return car  
+- Overnight Zagreb (if needed)  
+
+<img src="assets/vrbovsko.jpg" alt="Drive to Zagreb" width="70%" style="display:block;margin:auto;" />
 
 ---
 
 ### **Day 9 – 3 Aug (Sun) – Fly Home**
-<img src="assets/day9_flight.jpg" alt="Flight Home" width="100%" />
-- ✈️ Morning flight to Basel  
+- Morning flight to Basel  
 
 ---
 
-## 📍 Google Maps Route
+## Google Maps Route
 
-[🗺️ Full Map](https:/www.google.com/maps/dir/Zagreb,+Croatia/Ljubljana,+Slovenia/Bled,+Slovenia/Bovec,+Slovenia/Postojna,+Slovenia/Trieste,+Italy/Rovinj,+Croatia/Pula,+Croatia/Rijeka,+Croatia/Krk,+Croatia/Zagreb,+Croatia/)
+[Full Map](https://www.google.com/maps/dir/Zagreb,+Croatia/Ljubljana,+Slovenia/Bled,+Slovenia/Bovec,+Slovenia/Postojna,+Slovenia/Trieste,+Italy/Rovinj,+Croatia/Pula,+Croatia/Rijeka,+Croatia/Krk,+Croatia/Zagreb,+Croatia/)
 
 ---
 
@@ -138,7 +171,7 @@ https:/cars.booking.com/package/deal/eyJkcml2ZXJzQWdlIjozMCwiZHJvcE9mZkRhdGVUaW1
 | Fuel & tolls   | ~80 CHF       |
 | Motels (8x)    | ~600 CHF      |
 | Daily Activity | ~800 CHF      |
-| Food & Pivo    | ~500 CHF      |
+| Food & Drinks  | ~500 CHF      |
 | **Total**      | **~2200 CHF** |
 
 ---
