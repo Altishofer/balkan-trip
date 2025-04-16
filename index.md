@@ -2,7 +2,7 @@
 
 **Style:** Coastal loop with 1.5–2h drives/day  
 **Transport:** Rental car (cross-border permitted)  
-**Start/End:** Pristina, Kosovo  
+**Start/End:** Zagreb, Croatia  
 **Accommodation:** Motels  
 **Vibe:** Coastal scenery, adventure, local cuisine
 
@@ -10,107 +10,111 @@
 
 ## ✈️ Flight Details
 
-**Your Trip: Basel ↔ Pristina**
+**Basel ↔ Zagreb**
 
-| Leg                   | Departure               | Arrival                 |
-|-----------------------|-------------------------|-------------------------|
-| Basel → Pristina      | Fri 25 Jul 2025, 18:00  | Fri 25 Jul 2025, 20:10  |
-| Pristina → Basel      | Tue 5 Aug 2025, 20:35   | Tue 5 Aug 2025, 22:45   |
+| Date       | Time          | Airline                            | Duration    | Route   | Stops    | Emissions  |
+|------------|---------------|------------------------------------|-------------|---------|----------|------------|
+| Sat 26 Jul | 13:50 – 15:20 | Ryanair (Operated by Lauda Europe) | 1 hr 30 min | BSL–ZAG | Non-stop | 73 kg CO2e |
+| Sun 3 Aug  | 10:15 – 11:50 | Ryanair (Operated by Lauda Europe) | 1 hr 35 min | ZAG–BSL | Non-stop | 73 kg CO2e |
 
-**Passengers:** 1 Adult
-**Price per person:** £435.70
-
----
-
-## Route Overview
-
-1. [Pristina, Kosovo](https://www.google.com/maps/place/Pristina,+Kosovo)  
-2. [Skopje, North Macedonia](https://www.google.com/maps/place/Skopje,+North+Macedonia)  
-3. [Ohrid, North Macedonia](https://www.google.com/maps/place/Ohrid,+North+Macedonia)  
-4. [Saranda, Albania](https://www.google.com/maps/place/Saranda,+Albania)  
-5. [Tirana, Albania](https://www.google.com/maps/place/Tirana,+Albania)  
-6. [Kotor, Montenegro](https://www.google.com/maps/place/Kotor,+Montenegro)  
-7. [Mostar, Bosnia and Herzegovina](https://www.google.com/maps/place/Mostar,+Bosnia+and+Herzegovina)  
-8. [Split, Croatia](https://www.google.com/maps/place/Split,+Croatia)
+**Passengers:** 1 Adult  
+**Price per person:** 90.- CHF
 
 ---
 
-## Day-by-Day Itinerary
+## 🚗 Car Rental – Zagreb Airport
 
-### Day 1 – Pristina
-- Arrival from Basel
-- Pick up car
-- Explore Newborn Monument and city center
-
-### Day 2 – Pristina → Skopje (~2h)
-- Statues, riverside promenade, and bazaar
-- Optional: Karting or shooting range
-
-### Day 3 – Skopje → Ohrid (~2h)
-- Visit Church of St. John Kaneo and Old Town
-- Optional: Lake boat ride or paragliding
-
-### Day 4 – Ohrid → Saranda (~2h)
-- Drive via Gjirokastër or along the Ionian coast
-- Relax at Ksamil Beach or visit Butrint ruins
-
-### Day 5 – Saranda → Tirana (~2h)
-- Skanderbeg Square, Bunk’Art, local food
-- Optional: Quad biking or shooting range
-
-### Day 6 – Tirana → Kotor (~2h)
-- Drive along the Adriatic coast
-- Hike the fortress, rent a boat in the bay
-
-### Day 7 – Kotor → Mostar (~2h)
-- Visit Old Bridge, bazaar, and Ottoman streets
-
-### Day 8 – Mostar → Split (~2h)
-- Explore Diocletian’s Palace and Split Old Town
-- Optional: Jet ski or beach day
-
-### Day 9 – Split → Pristina (~2h)
-- Scenic inland return
-- Drop off car and prepare for flight
+| Kategorie            | Details                                                          |
+|----------------------|------------------------------------------------------------------|
+| Fahrzeug             | Volkswagen Taigo oder ähnlicher SUV                              |
+| Sitze                | 5                                                                |
+| Getriebe             | Automatik                                                        |
+| Gepäck               | 1 großer Koffer, 1 kleiner Koffer                                |
+| Kilometer            | Unbegrenzte Kilometer                                            |
+| Abholort             | Flughafen Zagreb                                                 |
+| Rückgabeort          | Flughafen Zagreb                                                 |
+| Abholung             | Sa., 26. Juli · 10:00                                            |
+| Rückgabe             | So., 3. Aug. · 10:00                                             |
+| Anbieter             | Goldcar                                                          |
+| Übergabe             | Meet & Greet                                                     |
+| Wintergebühr         | Inklusive                                                        |
+| Kundenbewertung      | 8.6 (Fabelhaft, 400+ Bewertungen)                                |
+| Inklusive Leistungen | Vollkaskoschutz & Diebstahlschutz je 1.736 CHF Selbstbeteiligung |
+| Stornierung          | Kostenlos bis 48 Std. vor Abholung                               |
+| Extras (optional)    | Zusatzfahrer: 58,88 CHF, Kindersitz: 92,61 CHF                   |
+| Mietpreis            | 422,06 CHF                                                       |
+| Mietdauer            | 8 Tage                                                           |
 
 ---
 
-## Adventure Activities
+## 🗺️ Route Overview
 
-### Adrenaline / Action
-- Shooting ranges (Tirana, Skopje)
-- Quad biking in Shkodër, Ohrid
-- Dirt bike tours in Montenegro, Albania
-- Zipline: Tara Bridge, Rugova Canyon
-- Paragliding in Budva, Ohrid
-
-### Water & Boat
-- Speedboat rental: Kotor, Ohrid
-- Kayak/canoe: Matka Canyon, Ohrid
-- Jet ski: Budva, Vlorë, Saranda
-- Rafting: Tara River, Vjosa
-
-### Machines & Nature
-- Fat bikes in Budva, Shkodër, Ohrid
-- Jeep safaris: Albanian Alps, Durmitor
-- Wild BBQ or cave exploring in mountains
+### **Arrival – Zagreb Airport**
+- ✅ Pick up rental car  
+- 🍺 First pivo  
+- 🛏️ Overnight hotel  
 
 ---
 
-## Budget Estimate (Per Person)
-
-| Item              | Estimate (7–10 Days) |
-|-------------------|----------------|
-| Car rental        | €       |
-| Fuel              | €              |
-| Motels            | €       |
-| Food & drinks     | €       |
-| Activities        | €        |
-| Flights           | £435.70        |
-| **Total**         | ~€950–1100     |
+### **Day 2 – Ljubljana (2h drive)**
+- 🏙️ Explore the capital city  
+- 🎯 Shooting range: [Shooting Range Gaj](https://shootingrange-gaj.eu/)  
+- 🛏️ Overnight hotel  
 
 ---
 
-## Google Maps Route
+### **Day 3 – Lake Bled (45 min drive)**
+- 🌊 Visit iconic Lake Bled  
+- 🚵 Mountain biking: [Scott eBike Rental](https://www.polkadot.si/products/scott-contessa-aspect-eride-920/)  
+- 🔥 Wild BBQ at the lake  
+- 🛏️ Overnight in Bled  
 
-[Open Full Route on Google Maps](https://www.google.com/maps/dir/Pristina,+Kosovo/Skopje,+North+Macedonia/Ohrid,+North+Macedonia/Saranda,+Albania/Tirana,+Albania/Kotor,+Montenegro/Mostar,+Bosnia+and+Herzegovina/Split,+Croatia/Pristina,+Kosovo)
+---
+
+### **Day 4 – Bovec (1.5–2.5h drive)**
+- 🛻 Quad biking: [Quad Adventure Bovec](https://www.quad-adventure-bovec.com/)  
+- 🚣 River rafting: [Eco Nature's Ways](https://www.econaturesways.com/)  
+- 🧗 Canyoning: [Canyoning Bovec](https://www.bovec.si/en/activities/canyoning/)  
+- 🛏️ Overnight in Bovec  
+
+---
+
+### **Day 5 – Postojna (1h 50m drive)**
+- 🕳️ Explore the Postojna Caves: [postojnska-jama.eu](https://www.postojnska-jama.eu/en/)  
+- 🛏️ Overnight nearby  
+
+---
+### **Day 6 – Istrian Coastline & Culture**
+
+- 🇮🇹 **Trieste** (45 min drive from Postojna)  
+  Explore the Italian port city, grab a coffee at a historic café, and walk along the seaside promenade.
+
+- 🇭🇷 **Rovinj** (1h 40m drive from Trieste)  
+  Wander the narrow cobblestone streets, climb to the church viewpoint, and enjoy fresh seafood at the harbor.
+
+- 🇭🇷 **Pula** (40 min drive from Rovinj)  
+  Visit the ancient Roman amphitheater, explore coastal fortresses, or chill on the beach.
+
+- 🛏️ **Overnight in Pula**  
+  Stay near the beach or city center.
+
+---
+
+### **Day 7 – Kvarner Bay & Island Life**
+
+- 🇭🇷 **Rijeka** (1h 30m drive from Pula)  
+  Quick stop in this lively port city for a bite or a stroll through Korzo pedestrian zone.
+
+- 🏝️ **Island of Krk** (1h drive from Rijeka)  
+  Enjoy the coastal scenery, relax on the beach, or rent a small boat to explore hidden coves.
+
+- 🛏️ **Overnight on Krk Island**  
+  Perfect for a quiet last night before returning to Zagreb.
+
+---
+
+### **Day 8 – Return to Zagreb (2h 20m drive)**
+
+- 🛣️ Drive through the scenic interior of Croatia  
+- 🧳 Return the rental car  
+- ✈️ Departure or overnight in Zagreb
