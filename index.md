@@ -1,116 +1,131 @@
 # Balkan Brothers Roadtrip: Mediterranean Round Trip (8 Days)
 
-**Style:** Coastal loop with 1.5–2h drives/day  
-**Transport:** Rental car (cross-border permitted)  
+**Style:** Coastal loop  
+**Transport:** Rental car  
 **Start/End:** Zagreb, Croatia  
 **Accommodation:** Motels  
-**Vibe:** Coastal scenery, adventure, local cuisine
+**Vibe:** Scenery, adventure, local food
 
 ---
 
-## ✈️ Flight Details
+## ✈️ Flight Details – Basel ↔ Zagreb
 
-**Basel ↔ Zagreb**
+| Date       | Time          | Airline                            | Route   | Stops    | CO₂   |
+|------------|---------------|------------------------------------|---------|----------|--------|
+| 26 Jul Sat | 13:50–15:20   | Ryanair (Lauda Europe)            | BSL–ZAG | Non-stop | 73 kg |
+| 3 Aug Sun  | 10:15–11:50   | Ryanair (Lauda Europe)            | ZAG–BSL | Non-stop | 73 kg |
 
-| Date       | Time          | Airline                            | Duration    | Route   | Stops    | Emissions  |
-|------------|---------------|------------------------------------|-------------|---------|----------|------------|
-| Sat 26 Jul | 13:50 – 15:20 | Ryanair (Operated by Lauda Europe) | 1 hr 30 min | BSL–ZAG | Non-stop | 73 kg CO2e |
-| Sun 3 Aug  | 10:15 – 11:50 | Ryanair (Operated by Lauda Europe) | 1 hr 35 min | ZAG–BSL | Non-stop | 73 kg CO2e |
-
-**Passengers:** 1 Adult  
-**Price per person:** 90.- CHF
+- Price: 90.- CHF  
+- Passengers: 1 Adult  
 
 ---
 
 ## 🚗 Car Rental – Zagreb Airport
 
-| Kategorie            | Details                                                          |
-|----------------------|------------------------------------------------------------------|
-| Fahrzeug             | Volkswagen Taigo oder ähnlicher SUV                              |
-| Sitze                | 5                                                                |
-| Getriebe             | Automatik                                                        |
-| Gepäck               | 1 großer Koffer, 1 kleiner Koffer                                |
-| Kilometer            | Unbegrenzte Kilometer                                            |
-| Abholort             | Flughafen Zagreb                                                 |
-| Rückgabeort          | Flughafen Zagreb                                                 |
-| Abholung             | Sa., 26. Juli · 10:00                                            |
-| Rückgabe             | So., 3. Aug. · 10:00                                             |
-| Anbieter             | Goldcar                                                          |
-| Übergabe             | Meet & Greet                                                     |
-| Wintergebühr         | Inklusive                                                        |
-| Kundenbewertung      | 8.6 (Fabelhaft, 400+ Bewertungen)                                |
-| Inklusive Leistungen | Vollkaskoschutz & Diebstahlschutz je 1.736 CHF Selbstbeteiligung |
-| Stornierung          | Kostenlos bis 48 Std. vor Abholung                               |
-| Extras (optional)    | Zusatzfahrer: 58,88 CHF, Kindersitz: 92,61 CHF                   |
-| Mietpreis            | 422,06 CHF                                                       |
-| Mietdauer            | 8 Tage                                                           |
+| Item         | Info                               |
+|--------------|------------------------------------|
+| Vehicle      | VW Taigo or similar SUV            |
+| Gear         | Automatic                          |
+| Bags         | 1 large, 1 small                   |
+| Mileage      | Unlimited                          |
+| Pickup       | 26 Jul, 10:00                      |
+| Return       | 3 Aug, 10:00                       |
+| Provider     | Goldcar                            |
+| Extras       | Add. driver: 58.88 CHF             |
+|              | Child seat: 92.61 CHF              |
+| Insurance    | Collision & theft (1736 CHF SB)    |
+| Rating       | 8.6 (400+ reviews)                 |
+| Price        | 422.06 CHF                         |
 
 ---
 
-## 🗺️ Route Overview
+## 🗺️ Route Plan
 
-### **Day 1 – Saturday, 26 July – Arrival in Zagreb**
-- ✅ Pick up rental car  
-- 🍺 First pivo  
-- 🛏️ Overnight hotel  
-
----
-
-### **Day 2 – Sunday, 27 July – Ljubljana (2h drive)**
-- 🏙️ Explore the capital city  
-- 🎯 Shooting range: [Shooting Range Gaj](https://shootingrange-gaj.eu/)  
-- 🛏️ Overnight hotel  
+### **Day 1 – 26 Jul (Sat) – Zagreb**
+- ✅ Car pickup  
+- 🍺 First local beer  
+- 🛏️ Overnight in Zagreb  
 
 ---
 
-### **Day 3 – Monday, 28 July – Lake Bled (45 min drive)**
-- 🌊 Visit iconic Lake Bled  
-- 🚵 Mountain biking: [Scott eBike Rental](https://www.polkadot.si/products/scott-contessa-aspect-eride-920/)  
+### **Day 2 – 27 Jul (Sun) – Ljubljana (2h)**
+- 🏙️ Walk the old town  
+- 🎯 [Shooting Range Gaj](https://shootingrange-gaj.eu/)  
+- 🛏️ Overnight in Ljubljana  
+
+---
+
+### **Day 3 – 28 Jul (Mon) – Bled (45m)**
+- 🌊 Lake Bled walk  
+- 🚵 [eMTB Rental](https://www.polkadot.si/products/scott-contessa-aspect-eride-920/)  
 - 🔥 Wild BBQ at the lake  
 - 🛏️ Overnight in Bled  
 
 ---
 
-### **Day 4 – Tuesday, 29 July – Bovec (1.5–2.5h drive)**
-- 🛻 Quad biking: [Quad Adventure Bovec](https://www.quad-adventure-bovec.com/)  
-- 🚣 River rafting: [Eco Nature's Ways](https://www.econaturesways.com/)  
-- 🧗 Canyoning: [Canyoning Bovec](https://www.bovec.si/en/activities/canyoning/)  
+### **Day 4 – 29 Jul (Tue) – Bovec (2h)**
+- 🛻 [Quad Biking](https://www.quad-adventure-bovec.com/)  
+- 🚣 [Rafting](https://www.econaturesways.com/)  
+- 🧗 [Canyoning](https://www.bovec.si/en/activities/canyoning/)  
 - 🛏️ Overnight in Bovec  
 
 ---
 
-### **Day 5 – Wednesday, 30 July – Postojna & Trieste**
-- 🕳️ Visit the stunning [Postojna Cave](https://www.postojnska-jama.eu/en/) (1h 50m drive from Bovec)  
-- 🇮🇹 Explore **Trieste** (45 min drive from Postojna)  
-  - Historic cafés, coastal promenade, Italian flair  
-- 🛏️ Overnight near Trieste/Postojna  
+### **Day 5 – 30 Jul (Wed) – Postojna (2h) + Trieste (45m)**
+- 🕳️ [Postojna Cave](https://www.postojnska-jama.eu/en/)  
+- 🇮🇹 Trieste café & coast  
+- 🛏️ Overnight nearby  
 
 ---
 
-### **Day 6 – Thursday, 31 July – Istrian Coastline & Culture**
-- 🇭🇷 **Rovinj** (1h 40m drive from Trieste)  
-  - Charming old town, scenic harbor, seafood dining  
-- 🇭🇷 **Pula** (40 min drive from Rovinj)  
-  - Roman amphitheater, fortress ruins, beaches  
+### **Day 6 – 31 Jul (Thu) – Istrian Coast**
+- 🇭🇷 Rovinj (1h 40m)  
+  - 🏛️ Church view, old town walk  
+- 🇭🇷 Pula (40m)  
+  - 🏟️ Amphitheater  
+  - 🌅 Sunset beach chill  
 - 🛏️ Overnight in Pula  
 
 ---
 
-### **Day 7 – Friday, 1 August – Kvarner Bay & Island Life**
-- 🇭🇷 **Rijeka** (1h 30m drive from Pula)  
-  - Quick city stroll, coffee on Korzo  
-- 🏝️ **Island of Krk** (1h drive from Rijeka)  
-  - Small boat rental, beach time, relaxed island vibe  
-- 🛏️ Overnight on Krk Island  
+### **Day 7 – 1 Aug (Fri) – Kvarner Bay**
+- 🇭🇷 Rijeka (1h 30m)  
+  - ☕ Quick stop  
+- 🏝️ Island of Krk (1h)  
+  - 🚤 Optional boat rental  
+  - 🏖️ Last beach day  
+- 🛏️ Overnight on Krk  
 
 ---
 
-### **Day 8 – Saturday, 2 August – Return to Zagreb (2h 20m drive)**
-- 🛣️ Drive through the scenic interior of Croatia  
-- 🧳 Return the rental car  
-- 🛏️ Overnight in Zagreb (optional, depending on flight timing)
+### **Day 8 – 2 Aug (Sat) – Back to Zagreb (2h 20m)**
+- 🛣️ Scenic inland drive  
+- 🧳 Return car  
+- 🛏️ Overnight Zagreb (if needed)  
 
 ---
 
-### **Day 9 – Sunday, 3 August – Departure**
-- ✈️ Morning flight back to Basel
+### **Day 9 – 3 Aug (Sun) – Fly Home**
+- ✈️ Morning flight to Basel  
+
+---
+
+## 📍 Google Maps Route
+
+[🗺️ Full Map](https://www.google.com/maps/dir/Zagreb,+Croatia/Ljubljana,+Slovenia/Bled,+Slovenia/Bovec,+Slovenia/Postojna,+Slovenia/Trieste,+Italy/Rovinj,+Croatia/Pula,+Croatia/Rijeka,+Croatia/Krk,+Croatia/Zagreb,+Croatia/)
+
+---
+
+## 💸 Budget Estimate (per person)
+
+| Item           | Amount pro P. |
+|----------------|---------------|
+| Flights        | ~200 CHF      |
+| Rental Car     | ~160 CHF      |
+| Fuel & tolls   | ~80 CHF       |
+| Motels (8x)    | ~600 CHF      |
+| Daily Activity | ~800 CHF      |
+| Food & Pivo    | ~500 CHF      |
+| **Total**      | **~2200 CHF** |
+
+---
