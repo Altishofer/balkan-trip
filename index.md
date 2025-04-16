@@ -22,6 +22,10 @@
 
 ## 🚗 Car Rental – Zagreb Airport
 
+https:/cars.booking.com/package/deal/eyJkcml2ZXJzQWdlIjozMCwiZHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wOC0wM1QxMDowMDowMCIsImRyb3BPZmZMb2NhdGlvbiI6IjQ1LjgxMzE1MjMxMzIzMjQyLDE1Ljk3NzMwODI3MzMxNTQzIiwiZHJvcE9mZkxvY2F0aW9uVHlwZSI6IkxBVExPTkciLCJwaWNrVXBEYXRlVGltZSI6IjIwMjUtMDctMjZUMTA6MDA6MDAiLCJwaWNrVXBMb2NhdGlvbiI6IjQ1LjgxMzE1MjMxMzIzMjQyLDE1Ljk3NzMwODI3MzMxNTQzIiwicGlja1VwTG9jYXRpb25UeXBlIjoiTEFUTE9ORyIsInJlbnRhbER1cmF0aW9uSW5EYXlzIjo4LCJzZWFyY2hNZXRhZGF0YSI6IntcInBpY2tVcExvY2F0aW9uTmFtZVwiOlwiWmFncmViXCIsXCJkcm9wT2ZmTG9jYXRpb25OYW1lXCI6XCJaYWdyZWJcIn0ifQ==/771939976
+
+<img src="assets/car.jpg" alt="Zagreb" width="100%" />
+
 | Item         | Info                               |
 |--------------|------------------------------------|
 | Vehicle      | VW Taigo or similar SUV            |
@@ -42,6 +46,7 @@
 ## 🗺️ Route Plan
 
 ### **Day 1 – 26 Jul (Sat) – Zagreb**
+<img src="assets/day1_zagreb.jpg" alt="Zagreb" width="100%" />
 - ✅ Car pickup  
 - 🍺 First local beer  
 - 🛏️ Overnight in Zagreb  
@@ -49,36 +54,41 @@
 ---
 
 ### **Day 2 – 27 Jul (Sun) – Ljubljana (2h)**
+<img src="assets/day2_ljubljana.jpg" alt="Ljubljana" width="100%" />
 - 🏙️ Walk the old town  
-- 🎯 [Shooting Range Gaj](https://shootingrange-gaj.eu/)  
+- 🎯 [Shooting Range Gaj](https:/shootingrange-gaj.eu/)  
 - 🛏️ Overnight in Ljubljana  
 
 ---
 
 ### **Day 3 – 28 Jul (Mon) – Bled (45m)**
+<img src="assets/day3_bled.jpg" alt="Lake Bled" width="100%" />
 - 🌊 Lake Bled walk  
-- 🚵 [eMTB Rental](https://www.polkadot.si/products/scott-contessa-aspect-eride-920/)  
+- 🚵 [eMTB Rental](https:/www.polkadot.si/products/scott-contessa-aspect-eride-920/)  
 - 🔥 Wild BBQ at the lake  
 - 🛏️ Overnight in Bled  
 
 ---
 
 ### **Day 4 – 29 Jul (Tue) – Bovec (2h)**
-- 🛻 [Quad Biking](https://www.quad-adventure-bovec.com/)  
-- 🚣 [Rafting](https://www.econaturesways.com/)  
-- 🧗 [Canyoning](https://www.bovec.si/en/activities/canyoning/)  
+<img src="assets/day4_bovec.jpg" alt="Bovec Adventure" width="100%" />
+- 🛻 [Quad Biking](https:/www.quad-adventure-bovec.com/)  
+- 🚣 [Rafting](https:/www.econaturesways.com/)  
+- 🧗 [Canyoning](https:/www.bovec.si/en/activities/canyoning/)  
 - 🛏️ Overnight in Bovec  
 
 ---
 
 ### **Day 5 – 30 Jul (Wed) – Postojna (2h) + Trieste (45m)**
-- 🕳️ [Postojna Cave](https://www.postojnska-jama.eu/en/)  
+<img src="assets/day5_postojna_trieste.jpg" alt="Postojna Cave & Trieste" width="100%" />
+- 🕳️ [Postojna Cave](https:/www.postojnska-jama.eu/en/)  
 - 🇮🇹 Trieste café & coast  
 - 🛏️ Overnight nearby  
 
 ---
 
 ### **Day 6 – 31 Jul (Thu) – Istrian Coast**
+<img src="assets/day6_rovinj_pula.jpg" alt="Rovinj and Pula" width="100%" />
 - 🇭🇷 Rovinj (1h 40m)  
   - 🏛️ Church view, old town walk  
 - 🇭🇷 Pula (40m)  
@@ -89,6 +99,7 @@
 ---
 
 ### **Day 7 – 1 Aug (Fri) – Kvarner Bay**
+<img src="assets/day7_krk.jpg" alt="Krk Island" width="100%" />
 - 🇭🇷 Rijeka (1h 30m)  
   - ☕ Quick stop  
 - 🏝️ Island of Krk (1h)  
@@ -99,6 +110,7 @@
 ---
 
 ### **Day 8 – 2 Aug (Sat) – Back to Zagreb (2h 20m)**
+<img src="assets/day8_drive_back.jpg" alt="Back to Zagreb" width="100%" />
 - 🛣️ Scenic inland drive  
 - 🧳 Return car  
 - 🛏️ Overnight Zagreb (if needed)  
@@ -106,13 +118,14 @@
 ---
 
 ### **Day 9 – 3 Aug (Sun) – Fly Home**
+<img src="assets/day9_flight.jpg" alt="Flight Home" width="100%" />
 - ✈️ Morning flight to Basel  
 
 ---
 
 ## 📍 Google Maps Route
 
-[🗺️ Full Map](https://www.google.com/maps/dir/Zagreb,+Croatia/Ljubljana,+Slovenia/Bled,+Slovenia/Bovec,+Slovenia/Postojna,+Slovenia/Trieste,+Italy/Rovinj,+Croatia/Pula,+Croatia/Rijeka,+Croatia/Krk,+Croatia/Zagreb,+Croatia/)
+[🗺️ Full Map](https:/www.google.com/maps/dir/Zagreb,+Croatia/Ljubljana,+Slovenia/Bled,+Slovenia/Bovec,+Slovenia/Postojna,+Slovenia/Trieste,+Italy/Rovinj,+Croatia/Pula,+Croatia/Rijeka,+Croatia/Krk,+Croatia/Zagreb,+Croatia/)
 
 ---
 
