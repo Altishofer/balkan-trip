@@ -221,10 +221,34 @@
 
 | Item           | Amount pro P. |
 |----------------|---------------|
-| Flights        | ~200 CHF      |
-| Rental Car     | ~160 CHF      |
+| Flights        | ~151 CHF      |
+| Rental Car     | ~162 CHF      |
 | Fuel & tolls   | ~80 CHF       |
 | Motels (8x)    | ~600 CHF      |
 | Daily Activity | ~800 CHF      |
 | Food & Drinks  | ~500 CHF      |
 | **Total**      | **~2200 CHF** |
+
+
+## Meeting on 25.04.25
+
+- Clothing for different weather conditions (sunshine, rain, cold)
+- 40.- per person per night
+- Clubbing on the first night in Zagreb 
+
+### Book in Advance
+- Flights ✅
+- Day 1: Zagreb
+- Day 2: Ljubljana
+- Day 9: Zagreb
+- Car
+- Shooting Range
+
+### To Do
+- Write email to shooting range
+
+### Equipment
+- Hiking shoes
+- Swimwear
+- Sports clothing
+- Credit card (for Car Rental!)
