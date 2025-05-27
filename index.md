@@ -129,6 +129,7 @@
 - Walk the old town  
 - [Shooting Range Gaj](https://shootingrange-gaj.eu/)  
 - Overnight in [Ljubljana](https://www.google.com/maps/place/Ljubljana,+Slovenia/)
+- [Outdoor Paintball](https://paintball-ljubljana.si/)
 
 <img src="assets/ljubljana.jpg" alt="Ljubljana" width="70%" class="centered-img" />
 
@@ -137,8 +138,8 @@
 ### **Day 3 – 28 Jul (Mon) – [🌍 Bled](https://www.google.com/maps/place/Bled,+Slovenia/)**
 
 - Lake Bled walk  
-- [eMTB Rental](https://www.polkadot.si/products/scott-contessa-aspect-eride-920/)  
-- Wild BBQ at the lake  
+- [eMTB Rental](https://www.polkadot.si/products/)  
+- Wild BBQ at the lake
 - Overnight in [Bled](https://www.google.com/maps/place/Bled,+Slovenia/)
 
 <img src="assets/bled.jpg" alt="Lake Bled" width="70%" class="centered-img" />
@@ -147,7 +148,7 @@
 
 ### **Day 4 – 29 Jul (Tue) – [🌍 Bovec](https://www.google.com/maps/place/Bovec,+Slovenia/)**
 
-- [Quad Biking](https://www.quad-adventure-bovec.com/)  
+- [Quad Biking](https://www.quad-adventure-bovec.com/)
 - [Rafting](https://www.econaturesways.com/)  
 - [Canyoning](https://www.bovec.si/en/activities/canyoning/)  
 - Overnight in [Bovec](https://www.google.com/maps/place/Bovec,+Slovenia/)
@@ -245,7 +246,31 @@
 - Shooting Range
 
 ### To Do
-- Write email to shooting range
+
+#### Day 2, Sunday, 27.07.25
+- [Shooting Range Gaj](https://shootingrange-gaj.eu/) 
+  - Did not reply to first email
+  - Facebook messenger pending
+- [Outdoor Paintball](https://paintball-ljubljana.si/)
+  - Wrote Email on 27.05.25 to ask to join another group during afternoon
+
+#### Day 3, Monday, 28.07.25
+- [eMTB Rental](https://www.polkadot.si/products/)
+  - Wrote message on WhatsApp
+
+#### Day 4, Tuesday, 29.07.25
+- [River Rafting](https://www.econaturesways.com/bovec-canyoning-slovenia/)
+  - Wrote email on 27.05.25
+
+#### Day 5, Wednesday, 30.07.25
+- [Cave Train](https://www.postojnska-jama.eu/en/tickets/100-cave-experience/)
+  - Tickets available
+
+#### Day 6, Thursday, 31.07.25
+- [Boat Tour](https://www.booking.com/attractions/en-us/prubb1yxer7l-fish-picnic-excursion-on-kristofor-boat.en-us.html?hl_ids[]=PRUBb1yXeR7l&hl_ids[]=&aid=1703766&label=English_ROW_Product_176544054678-IitYeInPggMngjq78zIqyQS735362057956%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg&date=2025-07-31&start_time=09%3A30&ticket_type=OF6Ko0eAE9Br)
+- [Scuba Diving](https://www.tripadvisor.com/AttractionProductReview-g295373-d14771350-Scuba_Diving_for_Beginners_in_Pula-Pula_Istria.html)
+- [Kayak Tour](https://www.tripadvisor.com/AttractionProductReview-g295373-d33092946-Glowing_Kayak_Tour_Illuminate_the_Night_in_PULA-Pula_Istria.html)
+
 
 ### Equipment
 - Hiking shoes
